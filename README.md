@@ -10,4 +10,5 @@ How to run this system?
 2. Download this repository
 3. Open CMD in the cloned repository to run 'npm install'
 4. To run the application for development, run 'npm run development'
+
 Open localhost:3000 in the browser
